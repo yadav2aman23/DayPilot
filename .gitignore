@@ -1,0 +1,39 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+android/.gradle/
+android/local.properties
+android/key.properties
+.idea/
+.vscode/
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+
+# Android local configuration and secrets
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+google-services.json
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Local analysis output
+analyze.txt
+
+# Environment files
+.env
+.env.*
+!.env.example
