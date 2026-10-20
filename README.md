@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DayPilot — Android starter app
 
 DayPilot is an Android-first personal scheduler and accountability tracker. This first build is a local-first Flutter app; tasks, notes, check-ins and schedule settings are stored on the phone.
@@ -67,3 +68,6 @@ DayPilot is an Android-first personal scheduler and accountability tracker. This
 ## Data and privacy
 
 This starter version uses local device storage only and does not send tasks or notes to a server. Shared preferences stores ordinary app data; the app PIN uses Android-backed secure storage. Cloud backup/sync is not included.
+=======
+# DayPilot
+>>>>>>> origin/main
